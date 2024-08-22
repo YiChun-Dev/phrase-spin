@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import PhraseSpin from './components/PhraseSpin.vue'
+import { PhraseSpin } from '.'
 
 const phrases: string[] = [
   "Hello, World !",
